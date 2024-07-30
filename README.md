@@ -1,2 +1,3 @@
 # oss-na24-slsa-workshop-organization
-Publish policy example
+
+Contents cloned from https://github.com/slsa-framework/oss-na24-slsa-workshop-organization
